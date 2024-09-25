@@ -1,9 +1,3 @@
-[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)](https://connect.posit.cloud/publish?framework=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python-llm&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
-
-Note: This app requires storing a secret environment variable. You’ll need to add your own OpenAI API key and republish after the initial deploy.
-
----
-
 ## Shiny for Python Example for Posit Connect Cloud Deployment with LLM API Key
 
 This example Shiny for Python application using an OpenAI API key to generate datasets based on a description provided by the user.
